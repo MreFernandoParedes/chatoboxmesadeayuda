@@ -2,12 +2,12 @@
 
 :root {
   --color-bg: #f5f5f7;
-  --color-header-bg: #eeeeee;
+  --color-header-bg: #ffffff;
   --color-header-text: #111111;
   --color-assistant-bg: #ffffff;
   --color-user-bg: #1d4ed8;
-  --color-user-text: #222222;
-  --color-border-soft: #eeeeee;
+  --color-user-text: #111111;
+  --color-border-soft: #ffffff;
   --color-muted: #6b7280;
 
   --shadow-soft: 0 10px 30px rgba(15, 23, 42, 0.15);
