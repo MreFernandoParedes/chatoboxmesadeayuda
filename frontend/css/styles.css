@@ -1,6 +1,8 @@
+/* CONTENEDOR PRINCIPAL        --color-header-bg: #0f172a; */ 
+
 :root {
   --color-bg: #f5f5f7;
-  --color-header-bg: #ff172a;
+  --color-header-bg: #eeeeee;
   --color-header-text: #f9fafb;
   --color-assistant-bg: #ffffff;
   --color-user-bg: #1d4ed8;
