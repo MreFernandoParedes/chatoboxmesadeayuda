@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>🛠 Asistente de Mesa de Ayuda</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <div class="app">
+    <!-- HEADER -->
+    <header class="header">
+      <div class="header-left">
+        <img
+          src="assets/logo.png"
+          alt="Logo institucional"
+          class="logo"
+        />
+        <div class="header-text">
+          <h1> 🛠 Asistente de Mesa de Ayuda</h1>
+          <p>Hardware | Software | Conectividad</p>
+        </div>
+      </div>
+    </header>
+
+    <!-- CONTENEDOR CENTRAL -->
+    <main class="chat-wrapper">
+      <!-- ZONA DE MENSAJES (SCROLLABLE) -->
+      <div id="chat-container" class="chat-container">
+        <!-- Mensaje inicial del asistente -->
+        <div class="message-row assistant">
+          <div class="message-bubble">
+            <div class="message-meta">🛠 Asistente de mesa de ayuda</div>
+            <div class="message-text">
+              ¡Hola! Soy su asistente de mesa de ayuda.
+              Escríbame su consulta y le orientaré con la información disponible 🤗.
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- ÁREA DE ENTRADA -->
+      <form id="message-form" class="input-area">
+        <textarea
+          id="user-input"
+          class="input-text"
+          rows="1"
+          placeholder="Escriba su consulta a mesa de ayuda..."
+        ></textarea>
+        <button type="submit" class="btn-send">Enviar</button>
+      </form>
+    </main>
+
+    <!-- FOOTER PEQUEÑO -->
+    <footer class="footer">
+      <small>Respuestas generadas a partir del conocimiento de mesa de ayuda - Oficina de Tecnologías de la Infromación.</small>
+    </footer>
+  </div>
+
+  <!-- JS (lo implementarás después en js/app.js) -->
+  <script src="js/app.js" defer></script>
+</body>
+</html>

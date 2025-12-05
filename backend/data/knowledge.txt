@@ -1,0 +1,637 @@
+====================================================================
+SECCIÓN 1 – USO DEL CHATBOT Y PORTAL DE SOPORTE 🤖
+
+[FAQ 1.1] ¿Para qué sirve el chatbot de soporte?
+R:
+
+El chatbot es el primer punto de contacto para dudas y problemas de TI.
+
+Te ayuda con guías rápidas, imágenes explicativas y soluciones básicas.
+
+Si el problema no se resuelve, puede escalar tu caso a la mesa de ayuda y crear un ticket.
+
+[FAQ 1.2] ¿Cuándo debo usar el chatbot y cuándo llamar por teléfono?
+R:
+
+Usa el chatbot para problemas frecuentes: contraseñas, correo, acceso a aplicaciones, impresoras, VPN, etc.
+
+Llama por teléfono o marca “urgente” cuando:
+
+No puedes trabajar en absoluto.
+
+Hay caída de sistemas críticos o afecta a muchos usuarios.
+
+[FAQ 1.3] ¿Qué información debo dar al chatbot para que me ayude mejor?
+R:
+
+Describe el problema con estas ideas:
+
+Qué estabas haciendo.
+
+Qué mensaje de error aparece (texto exacto si es posible).
+
+Desde qué equipo (PC de la oficina, portátil, móvil, remoto).
+
+Si puedes, adjunta captura de pantalla del error.
+
+[FAQ 1.4] ¿Qué pasa cuando el chatbot crea un ticket?
+R:
+
+El chatbot envía los datos del problema al sistema de tickets.
+
+Se genera un número de incidente que recibirás en el chat y/o correo.
+
+Un técnico revisará el caso siguiendo los horarios y prioridades definidos.
+
+====================================================================
+SECCIÓN 2 – ACCESO, USUARIO Y CONTRASEÑAS 🔐
+
+[FAQ 2.1] Olvidé mi contraseña de red / inicio de sesión
+R:
+
+Accede a la opción de “Olvidé mi contraseña” en el portal, si está disponible.
+
+Si el proceso automático no funciona, contacta al chatbot indicando:
+
+“Olvidé mi contraseña de red” o “No puedo iniciar sesión”.
+
+El bot te guiará para verificar tu identidad y solicitar el reinicio de contraseña.
+
+[FAQ 2.2] El sistema me dice que mi contraseña expiró
+R:
+
+Inicia sesión y sigue el asistente de cambio de contraseña si lo muestra.
+
+Si no puedes cambiarla, indica al chatbot: “Contraseña expirada, no me deja entrar”.
+
+El bot revisará si hay un proceso automático; si no, escalará el caso a la mesa de ayuda.
+
+[FAQ 2.3] ¿Cuáles son las reglas para crear una contraseña válida?
+R:
+
+Debe tener longitud mínima definida por la empresa (ejemplo: 8 o más caracteres).
+
+Combinar mayúsculas, minúsculas, números y símbolos.
+
+No usar datos personales evidentes (nombre, fecha de nacimiento, etc.).
+
+No reutilizar contraseñas anteriores.
+
+[FAQ 2.4] Mi cuenta está bloqueada
+R:
+
+El bloqueo suele ocurrir tras varios intentos de contraseña incorrecta.
+
+Espera el tiempo indicado por el sistema si se desbloquea automáticamente.
+
+Si no se desbloquea, contacta al chatbot indicando “Cuenta bloqueada”.
+
+El bot validará algunos datos y gestionará el desbloqueo con el sistema o con un técnico.
+
+[FAQ 2.5] Cambio de contraseña periódica
+R:
+
+Recibirás avisos cuando se acerque la fecha de expiración.
+
+Cambia tu contraseña desde el equipo corporativo o portal correspondiente.
+
+Actualiza también la contraseña en aplicaciones móviles, correo del teléfono y VPN para evitar bloqueos.
+
+====================================================================
+SECCIÓN 3 – CORREO ELECTRÓNICO ✉️
+
+[FAQ 3.1] No puedo enviar ni recibir correos
+R:
+
+Verifica que tengas conexión a Internet.
+
+Revisa si puedes acceder al correo vía web (webmail).
+
+Si en web funciona pero en la aplicación no:
+
+Cierra y abre la aplicación de correo.
+
+Reinicia el equipo.
+
+Si sigue el problema, indica al chatbot:
+
+“No puedo enviar correos” o “No me llegan correos”, detallando desde dónde (PC, web, móvil).
+
+[FAQ 3.2] Mi bandeja de entrada está llena
+R:
+
+Ordena por tamaño o por fecha y elimina correos muy antiguos o con adjuntos pesados.
+
+Vacía la papelera y elementos eliminados.
+
+Si hay políticas de archivado automático, revisa las carpetas de archivo.
+
+Si necesitas más capacidad, solicita a través del chatbot un aumento de cuota, justificando el motivo.
+
+[FAQ 3.3] Error de envío a una dirección específica
+R:
+
+Revisa que la dirección esté bien escrita.
+
+Verifica el mensaje de error (por ejemplo, buzón inexistente, buzón lleno, bloqueado).
+
+Si el problema se repite, envía el mensaje de error completo al chatbot para que lo adjunte al ticket.
+
+[FAQ 3.4] Configuración básica de correo en el móvil
+R:
+
+Usa siempre la aplicación recomendada por la empresa (ejemplo: Outlook).
+
+Asegúrate de usar tu cuenta corporativa y seguir el asistente de configuración.
+
+Si te pide servidor o parámetros especiales, consulta al chatbot con la frase “configurar correo en móvil”.
+
+====================================================================
+SECCIÓN 4 – OFIMÁTICA Y APLICACIONES DE PRODUCTIVIDAD 📊
+
+[FAQ 4.1] Un archivo de Office no abre o aparece dañado
+R:
+
+Intenta abrir otro archivo para ver si el problema es general o solo de ese documento.
+
+Copia el archivo a otra ubicación (por ejemplo, al escritorio) e intenta abrirlo de nuevo.
+
+Si sigue fallando, informa al chatbot:
+
+Ruta del archivo,
+
+Aplicación utilizada (Word, Excel, etc.),
+
+Mensaje de error.
+
+[FAQ 4.2] Office pide activación o licencia
+R:
+
+Verifica que estás conectado a la red corporativa o VPN, si aplica.
+
+Cierra y vuelve a abrir la aplicación de Office.
+
+Inicia sesión con tu cuenta corporativa si el sistema lo solicita.
+
+Si el mensaje persiste, contacta al chatbot indicando “Office no está activado”.
+
+[FAQ 4.3] Una aplicación está muy lenta o se cuelga
+R:
+
+Cierra la aplicación y vuelve a abrirla.
+
+Reinicia el equipo para liberar memoria.
+
+Comprueba si el problema aparece solo en tu equipo o también en otros compañeros.
+
+Si persiste, indica al chatbot:
+
+Nombre de la aplicación,
+
+Desde cuándo ocurre,
+
+Si afecta a más usuarios.
+
+====================================================================
+SECCIÓN 5 – IMPRESORAS Y ESCÁNER 🖨️
+
+[FAQ 5.1] No puedo imprimir
+R:
+
+Verifica si puedes imprimir una página de prueba desde otra aplicación.
+
+Revisa el estado de la impresora (sin papel, atascos, sin tóner).
+
+Comprueba si otros compañeros pueden imprimir en la misma impresora.
+
+Si nadie puede imprimir, probablemente sea un problema del equipo o de la red; informa al chatbot indicando:
+
+Nombre de la impresora,
+
+Ubicación,
+
+Mensaje de error si aparece.
+
+[FAQ 5.2] La impresora no aparece en mi lista
+R:
+
+Comprueba si estás conectado a la red corporativa (cable o Wi-Fi interno).
+
+Verifica si se trata de una impresora compartida o de red.
+
+Si tienes instrucciones internas de instalación, síguelas; en caso contrario, pide al chatbot “instalar impresora [nombre / ubicación]”.
+
+[FAQ 5.3] Problemas al escanear a correo o carpeta
+R:
+
+Verifica que el correo destinatario sea válido o que la carpeta compartida esté accesible.
+
+Revisa que el escáner tenga conexión a la red.
+
+Si el problema se repite, envía al chatbot datos de:
+
+Modelo de la impresora/escáner,
+
+Destino del escaneo,
+
+Mensaje de error.
+
+====================================================================
+SECCIÓN 6 – RED, INTERNET Y VPN 🌐
+
+[FAQ 6.1] No tengo conexión a Internet
+R:
+
+Comprueba si el icono de red indica desconexión o problema.
+
+Reinicia el equipo y, si aplica, el router o punto de acceso local.
+
+Verifica si otros dispositivos de la misma zona también están sin conexión.
+
+Si solo es tu equipo, indica al chatbot:
+
+Tipo de conexión (cable, Wi-Fi, datos móviles),
+
+Desde cuándo estás sin acceso.
+
+[FAQ 6.2] No puedo conectarme a la VPN
+R:
+
+Verifica que tienes conexión a Internet antes de abrir la VPN.
+
+Comprueba usuario y contraseña de VPN, si son diferentes de la de red.
+
+Si recibes un mensaje de error concreto, captura la pantalla o copia el texto.
+
+Contacta al chatbot indicando “problema con VPN” y adjunta el mensaje de error.
+
+[FAQ 6.3] La conexión es muy lenta
+R:
+
+Confirma si la lentitud es en todo (navegación, apps) o solo en un sistema concreto.
+
+Cierra aplicaciones pesadas (streaming, descargas, etc.).
+
+Si estás remoto, verifica la calidad de la conexión de tu proveedor de Internet.
+
+Informa al chatbot si la lentitud persiste y afecta a tu trabajo diario.
+
+====================================================================
+SECCIÓN 7 – EQUIPO (PC/PORTÁTIL) 💻
+
+[FAQ 7.1] Mi equipo no enciende
+R:
+
+Verifica que el cable de alimentación esté correctamente conectado.
+
+Comprueba si el monitor tiene energía y está encendido (para PCs de escritorio).
+
+En portátiles, confirma que la batería tiene carga o deja el equipo conectado un tiempo.
+
+Si sigue sin encender, describe al chatbot:
+
+Tipo de equipo (PC, portátil),
+
+Si hace algún ruido o muestra alguna luz,
+
+Cualquier cambio reciente (golpes, caídas, traslados).
+
+[FAQ 7.2] Mi equipo va muy lento
+R:
+
+Cierra aplicaciones que no estés usando.
+
+Reinicia el equipo para liberar memoria.
+
+Comprueba si la lentitud se nota en todo o solo en alguna aplicación.
+
+Si persiste, informa al chatbot:
+
+Desde cuándo notas la lentitud,
+
+Si cambió algo recientemente (instalación de software, actualizaciones).
+
+[FAQ 7.3] No funciona el teclado, el mouse o la pantalla
+R:
+
+Revisa conexiones físicas (USB, HDMI, cables).
+
+Prueba con otro puerto USB o con otro dispositivo si es posible.
+
+En portátiles, verifica si hay teclas especiales de bloqueo (touchpad desactivado, brillo al mínimo, etc.).
+
+Si no se soluciona, indica al chatbot:
+
+Tipo de periférico,
+
+Si dejó de funcionar de repente o tras algún evento.
+
+====================================================================
+SECCIÓN 8 – DISPOSITIVOS MÓVILES 📱
+
+[FAQ 8.1] No puedo acceder al correo corporativo en el móvil
+R:
+
+Verifica conexión a Internet (datos o Wi-Fi).
+
+Confirma que la cuenta corporativa esté configurada en la app autorizada.
+
+Si cambiaste la contraseña recientemente, actualízala también en el móvil.
+
+Si el problema continúa, indica al chatbot:
+
+Modelo de móvil,
+
+Sistema operativo (Android/iOS),
+
+Mensaje de error.
+
+[FAQ 8.2] El dispositivo indica que la organización lo ha bloqueado o borrado
+R:
+
+Esto puede ocurrir por pérdida, robo o incumplimiento de políticas de seguridad.
+
+Contacta inmediatamente a la mesa de ayuda mediante el chatbot indicando “dispositivo bloqueado por la empresa”.
+
+No intentes modificar configuraciones de seguridad sin autorización.
+
+====================================================================
+SECCIÓN 9 – SEGURIDAD INFORMÁTICA 🛡️
+
+[FAQ 9.1] Sospecho que he recibido un correo malicioso (phishing)
+R:
+
+No hagas clic en enlaces ni abras adjuntos.
+
+No respondas al remitente.
+
+Reenvía el correo a la dirección interna de seguridad si existe o súbelo por el chatbot indicando “posible phishing”.
+
+Elimina el mensaje de tu bandeja y papelera tras el análisis.
+
+[FAQ 9.2] Creo que mi equipo tiene un virus o malware
+R:
+
+Desconéctate de la red si notas comportamiento extraño serio.
+
+Ejecuta un análisis completo con el antivirus corporativo si está disponible.
+
+Informa al chatbot describiendo los síntomas:
+
+Ventanas extrañas,
+
+Redirecciones en el navegador,
+
+Lentitud extrema súbita.
+
+[FAQ 9.3] Compartir información confidencial
+R:
+
+Nunca envíes datos sensibles por correos personales o apps no aprobadas.
+
+Usa siempre las plataformas corporativas para compartir documentos internos.
+
+Ante dudas, consulta al chatbot con “cómo compartir información confidencial”.
+
+====================================================================
+SECCIÓN 10 – ARCHIVOS, CARPETAS COMPARTIDAS Y BACKUP 📁
+
+[FAQ 10.1] No tengo acceso a una carpeta compartida
+R:
+
+Verifica que estés conectado a la red corporativa o VPN.
+
+Confirma la ruta de la carpeta y si otros compañeros pueden acceder.
+
+Si necesitas permiso, solicita a tu responsable que valide la necesidad de acceso.
+
+Envía al chatbot la ruta exacta y la confirmación de tu jefe (si se requiere) para gestionar el permiso.
+
+[FAQ 10.2] Recuperar un archivo borrado por error
+R:
+
+Revisa la papelera de reciclaje de tu equipo.
+
+Si el archivo estaba en una carpeta de red o servicio con versiones, comprueba el historial de versiones.
+
+Si no lo encuentras, contacta al chatbot indicando:
+
+Ruta original,
+
+Nombre del archivo,
+
+Fecha aproximada de borrado.
+
+====================================================================
+SECCIÓN 11 – APLICACIONES DE NEGOCIO Y SISTEMAS CORPORATIVOS 🏢
+
+[FAQ 11.1] No puedo acceder a una aplicación de negocio (ERP, CRM, etc.)
+R:
+
+Verifica si otros sitios web o aplicaciones funcionan.
+
+Pregunta a compañeros si tienen el mismo problema.
+
+Si solo te pasa a ti, probablemente sea un tema de usuario o permisos.
+
+Contacta al chatbot indicando:
+
+Nombre de la aplicación,
+
+Captura del error,
+
+Si es la primera vez que accedes o antes funcionaba.
+
+[FAQ 11.2] No tengo permisos para una funcionalidad específica
+R:
+
+Verifica con tu jefe si deberías tener ese permiso según tu rol.
+
+Una vez confirmado, solicita al chatbot la ampliación de permisos incluyendo:
+
+Nombre de la aplicación,
+
+Funcionalidad específica,
+
+Aprobación del responsable si la política lo requiere.
+
+====================================================================
+SECCIÓN 12 – PRIORIDADES, TIEMPOS Y ESTADO DE LOS TICKETS ⏱️
+
+[FAQ 12.1] ¿Cómo se clasifican las prioridades de los tickets?
+R:
+
+Alta/Crítica: no puedes trabajar o el servicio crítico está caído.
+
+Media: puedes trabajar parcialmente, existe alternativa temporal.
+
+Baja: consultas, pedidos de mejora o problemas con poco impacto.
+
+El chatbot sugerirá una prioridad, pero el equipo de soporte puede ajustarla según las políticas internas.
+
+[FAQ 12.2] ¿Cómo consulto el estado de mi ticket?
+R:
+
+Puedes preguntar al chatbot por el número de ticket.
+
+También puedes entrar al portal de tickets y revisar “Mis solicitudes”.
+
+Verás estados típicos: abierto, en análisis, en espera de información, resuelto, cerrado.
+
+[FAQ 12.3] ¿Por qué se cierra un ticket?
+R:
+
+Cuando el soporte considera que la solución fue aplicada y validada.
+
+Previo al cierre, puede pedirse tu confirmación.
+
+Si el problema reaparece, puedes reabrir el ticket (según las reglas) o crear uno nuevo haciendo referencia al anterior.
+
+====================================================================
+SECCIÓN 13 – SOLICITUDES DE SERVICIO Y CAMBIOS 🔧
+
+[FAQ 13.1] Diferencia entre incidente y solicitud de servicio
+R:
+
+Incidente: algo que funcionaba y dejó de funcionar o funciona mal.
+
+Solicitud de servicio: algo nuevo que pides (alta de usuario, nuevo equipo, acceso a sistema, etc.).
+
+El chatbot te guiará para clasificar tu caso correctamente.
+
+[FAQ 13.2] ¿Cómo pido un nuevo equipo, software o acceso?
+R:
+
+Usa el catálogo de servicios en el portal o menciona al chatbot “solicitar [equipo/software/acceso]”.
+
+Proporciona los datos que se pidan (justificación, centro de costo, aprobación, etc.).
+
+Se generará una solicitud de servicio con su propio número y flujo de aprobación.
+
+====================================================================
+SECCIÓN 14 – USO DEL CHATBOT TRAS ESCALAMIENTO A HUMANO 👨‍💻
+
+[FAQ 14.1] ¿Qué pasa con mi conversación cuando me atiende un agente?
+R:
+
+La conversación con el chatbot se guarda como historial y contexto del ticket.
+
+El agente puede leer lo que ya se habló para no repetir preguntas.
+
+Puedes seguir usando el mismo canal de chat para hablar con el agente, si la herramienta lo permite.
+
+[FAQ 14.2] ¿Puedo valorar la atención recibida?
+R:
+
+Cuando el ticket se resuelva, puedes recibir un mensaje del chatbot o del sistema pidiendo tu opinión.
+
+Tu valoración ayuda a mejorar el servicio y ajustar el conocimiento del chatbot.
+
+====================================================================
+
+usar emojis según respuesta:
+
+Info general: ℹ️
+
+Éxito / resuelto: ✅
+
+Error / alerta: ⚠️
+
+Pasos o acciones: 👉, 🔹
+👋 Saludo y bienvenida 
+
+👋 (mano saludando) 
+
+🤝 (apretón de manos) 
+
+🙌 (manos levantadas) 
+
+😊 (cara sonriente) 
+
+🤗 (abrazo) 
+
+ 
+
+💬 Chat y conversación 
+
+💬 (burbuja de diálogo) 
+
+🗨️ (burbuja de texto) 
+
+📩 (mensaje entrante) 
+
+✉️ (sobre) 
+
+📨 (mensaje enviado) 
+
+ 
+
+🎤 Audio y voz 
+
+🎤 (micrófono) 
+
+🔊 (altavoz) 
+
+🎧 (audífonos) 
+
+🔈 (volumen bajo) 
+
+🔉 (volumen medio) 
+
+🔊 (volumen alto) 
+
+ 
+
+⚙️ Configuración y ajustes 
+
+⚙️ (engranaje) 
+
+🔧 (herramienta) 
+
+🛠️ (herramientas) 
+
+🖥️ (computadora) 
+
+📱 (móvil) 
+
+ 
+
+✅ Confirmación y acciones 
+
+✅ (check) 
+
+✔️ (marca de verificación) 
+
+🔒 (candado cerrado) 
+
+🔓 (candado abierto) 
+
+⏳ (reloj de arena) 
+
+ 
+
+❓ Ayuda y soporte 
+
+❓ (signo de pregunta) 
+
+ℹ️ (información) 
+
+🆘 (socorro) 
+
+📞 (teléfono) 
+
+📧 (correo) 
+
+ 
+
+🌐 Internacional / Consular 
+
+🌍 (globo terráqueo) 
+
+🛫 (avión despegando) 
+
+🛬 (avión aterrizando) 
+
+🏛️ (edificio gubernamental) 
+
+🛂 (control de pasaportes) 
